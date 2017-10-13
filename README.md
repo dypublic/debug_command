@@ -1,1 +1,3 @@
-# debug_command
+# debug_command  
+## thread number  
+ps -mq pid
